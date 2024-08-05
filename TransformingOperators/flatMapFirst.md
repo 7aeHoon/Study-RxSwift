@@ -4,6 +4,12 @@ flatMapFirst
 > flatMapFirst는 원래 Observable이 방출하는 첫 번째 요소에 대해서만 변환을 수행하고, 해당 변환이 완료될 때까지 다음 요소의 변환을 무시.  
 > 새로운 Observable을 병합하기 전에 이전 Observable의 시퀀스가 완료될 때까지 대기.
 
+&nbsp;
+
+<img width="700" alt="flatmapFirst" src="https://github.com/user-attachments/assets/29392580-8b0c-4884-9044-d2aae9ec8304">
+
+&nbsp;
+
 ```swift
 import UIKit
 import RxSwift
