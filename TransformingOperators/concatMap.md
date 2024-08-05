@@ -5,6 +5,12 @@ concatMap
 > 여러 innerObservable을 순차적으로 연결하여 처리하는 역할.  
 > 즉, 한 Observable의 작업이 완료된 후에야 다음 Observable을 구독하여 작업을 시작.  
 
+&nbsp;
+
+![concatMap](https://github.com/user-attachments/assets/a0676b56-38ed-42f4-b5dc-b97a388edca7)
+
+&nbsp;
+
 ```swift
 import UIKit
 import RxSwift
