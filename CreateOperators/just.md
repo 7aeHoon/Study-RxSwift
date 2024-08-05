@@ -4,6 +4,12 @@ just
 > 단일 값을 방출하고 완료하는 Observable 시퀀스를 생성하는 데 사용.  
 > 특히 단일 이벤트를 처리할 때 간단하고 유용하게 사용.  
 
+&nbsp;
+
+![just](https://github.com/user-attachments/assets/20cfdcb3-7693-4054-9761-8a8f64f6913b)
+
+&nbsp;
+
 ```swift
 
 import UIKit
