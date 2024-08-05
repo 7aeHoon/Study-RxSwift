@@ -2,7 +2,13 @@ from
 =====
 
 > 배열과 같은 시퀀스(Sequence) 형태의 데이터를 받아서 각 요소를 순차적으로 방출하는 Observable을 생성하는 데 사용.  
-> 여러 값을 담고 있는 컬렉션의 각 요소를 개별적으로 방출하고 완료.  
+> 여러 값을 담고 있는 컬렉션의 각 요소를 개별적으로 방출하고 완료.
+
+&nbsp;
+
+![from](https://github.com/user-attachments/assets/708e02c4-97b7-448e-af66-42717abd3903)
+
+&nbsp;
 
 ```swift
 
