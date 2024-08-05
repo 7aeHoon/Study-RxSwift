@@ -4,6 +4,12 @@ elementAt
 > Observable 시퀀스의 특정 인덱스에 위치한 요소를 방출하는 연산자.  
 > 주어진 인덱스 위치의 요소만 방출하고, 그 외의 요소들은 무시.  
 
+&nbsp;
+
+![elementAt](https://github.com/user-attachments/assets/d6dbac92-188d-47c5-88b8-2172dc8be14e)
+
+&nbsp;
+
 ```swift
 
 import UIKit
