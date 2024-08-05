@@ -54,10 +54,10 @@ buttonTap
 ### latest 설정
 
 - true일 때
-<img width="640" alt="다운로드 (1)" src="https://github.com/user-attachments/assets/90fb8b00-7d65-48fd-aaff-d41d4d87ae5a">
+![throttle](https://github.com/user-attachments/assets/c63785be-139b-4dcc-b31c-74b825de1af4)
 
 - false일 때
-<img width="640" alt="다운로드" src="https://github.com/user-attachments/assets/6d8f3761-7aad-45b4-930d-a2fe10a4d09e">
+![throttleFalse](https://github.com/user-attachments/assets/bb26d140-9d83-49bc-a5bf-d7aa6cbe626a)
 
 ```swift
 let disposeBag = DisposeBag()
