@@ -4,6 +4,12 @@ AsyncSubject
 > 자신에게 발행된 이벤트 중 가장 마지막 이벤트 1개 전달.  
 > 구독한 시점에 이벤트가 전달되는 것이 아닌 onCompleted 이벤트가 전달되면 마지막 이벤트 전달.  
 
+&nbsp;
+
+![async](https://github.com/user-attachments/assets/d58504ff-aff9-40c6-9499-3989c0b24490)
+
+&nbsp;
+
 ```swift
 
 import UIKit
