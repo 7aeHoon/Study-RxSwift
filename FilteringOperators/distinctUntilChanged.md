@@ -5,6 +5,12 @@ distinctUntilChanged
 > 즉, 연속된 값들 중에서 이전과 동일한 값이 방출되지 않도록 필터링하여, 값의 중복을 제거하고 변화가 있을 때만 이벤트를 방출.  
 > 데이터 스트림에서 중복된 연속값을 제거하고 변화가 있을 때만 반응하도록 하는 데 유용.  
 
+&nbsp;
+
+<img width="700" alt="distinctUntilChanged" src="https://github.com/user-attachments/assets/40047256-e6e2-43b4-8e9d-b18bd99e6eff">
+
+&nbsp;
+
 ```swift
 import UIKit
 import RxSwift
