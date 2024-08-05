@@ -4,6 +4,12 @@ take
 > Observable 시퀀스에서 지정된 개수만큼의 요소만을 방출하고, 그 이후의 요소는 무시하며 시퀀스를 종료.  
 > 데이터 스트림에서 처음 N개의 요소만 필요할 때 유용하게 사용.  
 
+&nbsp;
+
+![take](https://github.com/user-attachments/assets/b30a021f-9635-4f30-8a77-9a6466fc3e7c)
+
+&nbsp;
+
 ```swift
 import UIKit
 import RxSwift
