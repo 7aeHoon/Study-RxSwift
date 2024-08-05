@@ -6,7 +6,7 @@ startWith
 
 &nbsp;
 
-<img width="763" alt="startWith" src="https://github.com/user-attachments/assets/703f61ea-4df9-412e-9a32-819ce3fe49b9">   
+![startWith](https://github.com/user-attachments/assets/9610729c-fe5b-400a-8691-fb1bdcca6431)
 
 &nbsp;
 
