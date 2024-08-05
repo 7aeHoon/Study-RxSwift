@@ -4,6 +4,12 @@ take(until:)
 > 특정 Observable이 방출될 때까지의 요소만을 방출하고, 그 Observable이 방출되면 시퀀스를 종료.  
 > 특정 조건이 충족될 때까지의 요소를 포함하고, 그 조건이 충족된 이후의 모든 요소는 무시.  
 
+&nbsp;
+
+![takeUntil](https://github.com/user-attachments/assets/08025d5a-a6a8-4218-828d-3af655c44a0e)
+
+&nbsp;
+
 ```swift
 import UIKit
 import RxSwift
