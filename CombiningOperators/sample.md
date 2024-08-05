@@ -8,7 +8,7 @@ sample
 
 &nbsp;
 
-![sample](https://github.com/user-attachments/assets/cc81788e-50be-45d7-ade8-80c52d279fe2)
+![sample](https://github.com/user-attachments/assets/afd1c852-0ea8-44ad-a221-7c8a804002fd)
 
 &nbsp;
 
@@ -41,6 +41,11 @@ trigger.onNext(())
 
 // 기존 이벤트(Hello)가 같아서 이벤트 방출 없음
 trigger.onNext(())
+
+data.onNext("Swift")
+// onCompleted도 가능
+// next(Swift)
+trigger.onCompleted()
 
 // data Observable이 onCompleted를 방출하면 trigger Observable도 onCompleted를 방출
 // completed
