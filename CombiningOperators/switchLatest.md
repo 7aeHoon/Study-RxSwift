@@ -5,8 +5,7 @@ switchLatest
 
 &nbsp;
 
-<img width="800" alt="switchLatest" src="https://github.com/user-attachments/assets/a2d08ebe-6239-47bb-af4b-a6d8d985ad35">
-
+![switchLatest](https://github.com/user-attachments/assets/0f6a8fff-9e13-478b-8a8c-9916a06af6a6)
 
 &nbsp;
 
