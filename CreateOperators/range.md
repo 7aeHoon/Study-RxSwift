@@ -4,6 +4,12 @@ range
 > 지정된 범위의 정수 값을 순차적으로 방출하는 Observable을 생성하는 데 사용.  
 > 시작 값부터 끝 값까지의 정수 시퀀스를 생성하여, 각 값을 차례로 방출하고 완료.  
 
+&nbsp;
+
+![range](https://github.com/user-attachments/assets/9bb092a9-60e3-483b-8f90-ed2f6e782693)
+
+&nbsp;
+
 ```swift
 
 import UIKit
