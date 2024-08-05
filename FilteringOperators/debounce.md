@@ -5,6 +5,12 @@ debounce
 > 즉, 일정 시간 동안 안정화된 후에 값이 방출.  
 > 만약 이벤트가 방출될 경우 debounce의 타이머는 초기화.
 
+&nbsp;
+
+<img width="770" alt="debounce" src="https://github.com/user-attachments/assets/6bec9104-b860-4be3-beb4-eb652b90ed56">
+
+&nbsp;
+
 ```swift
 let disposeBag = DisposeBag()
 
