@@ -8,7 +8,7 @@ withLatestFrom
 
 &nbsp;
 
-![withLatestFrom](https://github.com/user-attachments/assets/8c845613-1786-4f46-ad9f-25a1e5381a49)
+![withLatestFrom](https://github.com/user-attachments/assets/868024bb-da5e-4b79-8ac5-cf593698053e)
 
 &nbsp;
 
