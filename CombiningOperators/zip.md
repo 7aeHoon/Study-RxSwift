@@ -9,7 +9,7 @@ zip
 
 &nbsp;
 
-![zip](https://github.com/user-attachments/assets/23ab4dc0-3594-478a-a818-fe769f06a5f6)
+![zip](https://github.com/user-attachments/assets/c630bb9c-dc58-4386-9b4d-d1a61b21a10b)
 
 &nbsp;
 
