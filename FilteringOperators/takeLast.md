@@ -4,6 +4,12 @@ takeLast
 > Observable 시퀀스의 마지막 N개의 요소만을 방출하고, 그 이전의 요소는 무시.  
 > 시퀀스가 완료된 후에 마지막 몇 개의 요소를 가져오는 데 유용.  
 
+&nbsp;
+
+![takeLast](https://github.com/user-attachments/assets/9d6644f7-c990-4cf8-af06-f89444c2295e)
+
+&nbsp;
+
 ```swift
 import UIKit
 import RxSwift
