@@ -5,6 +5,12 @@ skip(until:)
 > Observable의 요소가 지정된 Observable이 방출될 때까지 무시되며, 이후부터 방출.  
 > 이벤트 스트림의 시점을 조정하거나 특정 조건이 충족될 때까지 데이터를 무시할 때 유용.  
 
+&nbsp;
+
+![skipUntil](https://github.com/user-attachments/assets/cfa36790-0774-4daf-ab00-b49766b7ed0e)
+
+&nbsp;
+
 ```swift
 import UIKit
 import RxSwift
