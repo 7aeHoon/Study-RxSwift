@@ -4,6 +4,12 @@ scan
 > 시퀀스에서 발생하는 각 요소를 누적하여 중간 결과를 방출하는 역할.  
 > scan은 기본적으로 fold 또는 reduce 연산과 유사하게 작동하지만, 중요한 차이점은 누적된 결과를 중간 단계마다 방출한다는 것.  
 
+&nbsp;
+
+![scan](https://github.com/user-attachments/assets/90281b87-9045-4ee0-adc0-f5923212f28e)
+
+&nbsp;
+
 ```swift
 import UIKit
 import RxSwift
