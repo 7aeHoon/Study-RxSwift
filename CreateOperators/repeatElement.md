@@ -4,6 +4,12 @@ repeatElement
 > 특정 값을 무한히 반복하여 방출하는 Observable을 생성하는 데 사용.  
 > 주어진 단일 값을 반복해서 계속 방출하며, 사용자가 구독을 종료할 때까지 반복.  
 
+&nbsp;
+
+![repeat](https://github.com/user-attachments/assets/35145437-c56b-4f07-895b-f99feda3abab)
+
+&nbsp;
+
 ```swift
 
 import UIKit
