@@ -4,6 +4,12 @@ ReplaySubject
 > 특구독자가 구독을 시작할 때 이전에 발행된 이벤트들을 재생.  
 > 구독자가 구독을 시작하기 전에 발행된 이벤트들도 구독자에게 전달될 수 있음.  
 
+&nbsp;
+
+<img width="700" alt="replay" src="https://github.com/user-attachments/assets/70b5707b-97a1-4607-9f87-f5a8bc91df6b">
+
+&nbsp;
+
 ```swift
 
 import UIKit
