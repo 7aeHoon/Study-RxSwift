@@ -6,7 +6,7 @@ reduce
 
 &nbsp;
 
-![reduce](https://github.com/user-attachments/assets/3eef0f1d-4212-4659-9122-b53de24336cb)
+![reduce](https://github.com/user-attachments/assets/3f2d1ed7-7aa2-434c-af42-bc51b2573c2d)
 
 &nbsp;
 
