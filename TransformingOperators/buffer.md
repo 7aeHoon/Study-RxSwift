@@ -5,6 +5,12 @@ buffer
 > timeSpan만큼 경과하거나 count개의 요소가 수집되면 버퍼링된 요소가 방출
 > 크기 기반 버퍼링, 시간 기반 버퍼링, 혼합 기반 버퍼링 존재.  
 
+&nbsp;
+
+![buffer](https://github.com/user-attachments/assets/91a60358-6876-4b90-b6b3-2bb863bae2c5)
+
+&nbsp;
+
 ```swift
 import UIKit
 import RxSwift
