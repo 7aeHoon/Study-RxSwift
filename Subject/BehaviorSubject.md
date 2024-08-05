@@ -4,6 +4,12 @@ BehaviorSubject
 > 구독자에게 현재 상태 또는 최신 상태를 전달하기 위해 사용.  
 > PublishSubject와 달리 초기값을 가질 수 있으며, 새로운 구독자에게 항상 최신값을 전달.  
 
+&nbsp;
+
+![behavior](https://github.com/user-attachments/assets/f45c9582-1ee7-43d3-804a-96539e561f60)
+
+&nbsp;
+
 ```swift
 
 import UIKit
