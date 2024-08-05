@@ -3,7 +3,13 @@ create
 
 > Observable을 수동으로 생성할 때 사용.  
 > 클로저를 통해 Observer를 받아서 이벤트를 방출하는 방식으로 Observable을 구현.  
-> 다양한 시나리오에서 유연하게 Observable을 정의.
+> 다양한 시나리오에서 유연하게 Observable을 정의.  
+
+&nbsp;
+
+![create](https://github.com/user-attachments/assets/1d4e5f09-b55e-4c47-a859-bb1eb19f2eac)
+
+&nbsp;
 
 ```swift
 
