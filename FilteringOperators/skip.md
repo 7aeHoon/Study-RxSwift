@@ -4,6 +4,12 @@ skip
 > Observable 시퀀스의 처음부터 일정 개수의 요소를 무시하고, 그 이후의 요소들만 방출.  
 > 초기의 몇몇 요소를 건너뛰고 나머지 요소들에 대해서만 작업을 수행할 때 유용.  
 
+&nbsp;
+
+![skip](https://github.com/user-attachments/assets/8a5098b1-b82d-4696-8daf-56ef88c7689b)
+
+&nbsp;
+
 ```swift
 import UIKit
 import RxSwift
