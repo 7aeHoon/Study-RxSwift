@@ -3,6 +3,12 @@ groupBy
 
 > Observable 시퀀스의 요소를 주어진 기준에 따라 그룹화하여 각각의 그룹을 별도의 Observable로 변환.  
 
+&nbsp;
+
+![groupBy](https://github.com/user-attachments/assets/f984eb32-ee45-4ab6-b02d-af583857502a)
+
+&nbsp;
+
 ```swift
 import UIKit
 import RxSwift
