@@ -3,6 +3,7 @@ flatMap
 
 > 원래의 Observable이 방출하는 각 요소를 Observable로 변환한 후, 이 새로운 Observable들이 방출하는 값을 하나의 Observable 시퀀스로 병합하여 방출.  
 > 이 과정을 "flattening"이라고 부르며, 여러 Observable 스트림을 하나의 스트림으로 합치는 효과.  
+> 주의! 순서를 보장하지 않음.
 
 &nbsp;
 
