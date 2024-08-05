@@ -9,7 +9,7 @@ combineLatest
 
 &nbsp;
 
-![스크린샷 2024-08-02 오전 3 10 46](https://github.com/user-attachments/assets/ef0ec77e-a237-45e2-b014-dfca889bb1ee)
+![combineLatest](https://github.com/user-attachments/assets/ecca8129-ad64-4795-b95d-21c49d0095dc)
 
 &nbsp;
 
