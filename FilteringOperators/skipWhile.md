@@ -5,6 +5,12 @@ skip(while:)
 > 조건이 false로 평가되는 첫 번째 요소부터 이후의 모든 요소를 방출.  
 > 즉, 주어진 조건이 참인 동안에는 계속해서 요소를 무시하고, 조건이 거짓이 되는 순간부터 모든 요소를 방출하기 시작.  
 
+&nbsp;
+
+![skipWhile](https://github.com/user-attachments/assets/c74f2ae9-fba3-491e-8b78-d6b2cc98f2f2)
+
+&nbsp;
+
 ```swift
 import UIKit
 import RxSwift
