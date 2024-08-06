@@ -1,3 +1,4 @@
-# Swift-Study-RxSwift
+Swift-Study-RxSwift
+====================
 
-<img src="https://github.com/user-attachments/assets/89572901-7cc9-4260-b920-79ad8a0505f9" width="700">
+![image](https://github.com/user-attachments/assets/a0d1d300-55cf-4250-b885-d4ab52322a0a)
