@@ -1,8 +1,9 @@
 flatMapLatest
 ============
 
-> flatMapFirst는 원래 Observable이 방출하는 첫 번째 요소에 대해서만 변환을 수행하고, 해당 변환이 완료될 때까지 다음 요소의 변환을 무시.  
-> 새로운 Observable을 병합하기 전에 이전 Observable의 시퀀스가 완료될 때까지 대기.
+> 소스 Observable이 방출하는 각 아이템에 대해 새로운 Observable을 생성하고 이 Observable이 방출하는 아이템들로 결과 Observable을 생성.  
+> 소스 Observable이 새로운 아이템을 방출할 때마다 이전에 생성된 Observable이 방출하는 아이템들을 무시.  
+> 가장 최근에 생성된 Observable만의 아이템들을 방출.  
 
 ```swift
 import UIKit
