@@ -20,7 +20,7 @@ Swift-Study-RxSwift
 [11. Error Handling](#11-팀원-소개)
 [12. RxCocoa Basics](#12-팀원-소개)
 
-## 1. 목표와 기능
+## 1. Key Concepts
 ...
 ## 2. 개발 기간
 ...
