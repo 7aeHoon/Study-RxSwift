@@ -16,7 +16,7 @@ Swift-Study-RxSwift
 [9. Sharing Subscription](#9-sharing-subscription)  
 [10. Scheduler](#10-scheduler)  
 [11. Error Handling](#11-error-handling)  
-[12. RxCocoa Basics](#12-rxCocoa-basics)  
+[12. RxCocoa Basics](#12-rxcocoa-basics)  
  
 ## 1. Key Concepts
 
